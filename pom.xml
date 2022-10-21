@@ -67,9 +67,6 @@
             <version>3.0.4</version>
         </dependency>
 
-
-
-
     </dependencies>
 
     <build>
@@ -82,7 +79,7 @@
                     <assembleDirectory>target</assembleDirectory>
                     <programs>
                         <program>
-                            <mainClass>Main</mainClass>
+                            <mainClass>com.company.Main</mainClass>
                             <name>Aplus</name>
                         </program>
                     </programs>
