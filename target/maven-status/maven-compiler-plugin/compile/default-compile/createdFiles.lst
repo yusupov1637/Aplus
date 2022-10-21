@@ -1,0 +1,14 @@
+com\company\controller\MyEvosClone.class
+com\company\util\LanguageUtil.class
+com\company\util\InlineButtonUtil.class
+com\company\controller\LanguageController.class
+com\company\controller\MenuController.class
+com\company\model\UserStatus.class
+com\company\Language.class
+com\company\Main.class
+com\company\Database.class
+com\company\model\Meal.class
+com\company\model\TelergamBotUser.class
+com\company\controller\SavatController.class
+com\company\Solution.class
+com\company\controller\GeneralController.class

@@ -1,0 +1,226 @@
+
+Yusupov null null {Name:Kids COMBO
+16000.0   2=32000.0}#
+ 
+
+Yusupov 998914371637 null {Name:COMBO+
+16000.0 soni  1=16000.0, Name:Kids COMBO
+16000.0   2=32000.0}#
+ 
+
+Yusupov 998914371637 Location(longitude=69.204513, latitude=41.296565, horizontalAccuracy=null, livePeriod=null, heading=null, proximityAlertRadius=null) {Name:Pepsi 0.5
+16000.0  1=16000.0, Name:Kids COMBO
+16000.0   2=32000.0}#
+ 
+
+Yusupov 998914371637 Location(longitude=69.208217, latitude=41.296967, horizontalAccuracy=null, livePeriod=null, heading=null, proximityAlertRadius=null) {Name:🍗Tovuq Go'shti
+160  2=32000.0}#
+ 
+
+YusupovOtabek 998914371637 Location(longitude=69.208217, latitude=41.296967, horizontalAccuracy=null, livePeriod=null, heading=null, proximityAlertRadius=null) {Name:Chizburger
+16000.0   1=16000.0, Name:Pepsi 1.5
+16000.0 s  2=32000.0}#
+ 
+
+YusupovOtabek 998914371637 Location(longitude=69.204513, latitude=41.296565, horizontalAccuracy=null, livePeriod=null, heading=null, proximityAlertRadius=null) {Name:Pepsi 1.5
+16000.0  2=32000.0, Name:🍗Tovuq Go'shti
+160  2=32000.0}#
+ 
+
+YusupovOtabek
+998914371637 
+Location(longitude=69.208217, latitude=41.296967, horizontalAccuracy=null, livePeriod=null, heading=null, proximityAlertRadius=null)
+ {Name:Gamburger
+16000.0 s  1=16000.0}
+ 2022-09-13T20:04:27.540169600 #
+ 
+
+Yusupov Otabek
+998914371637 
+Location(longitude=69.207852, latitude=41.298391, horizontalAccuracy=null, livePeriod=null, heading=null, proximityAlertRadius=null)
+ {Name:Kids COMBO
+16000.0   3=48000.0}
+ 2022-09-13T20:55:39.745870300 #
+ 
+
+Yusupov Otabek
+998914371637 
+Location(longitude=69.210456, latitude=41.298285, horizontalAccuracy=null, livePeriod=null, heading=null, proximityAlertRadius=null)
+ {Name:Gamburger
+16000.0  1=16000.0}
+ 2022-09-13T20:57:45.216566 #
+ 
+
+Yusupov Otabek
+998914371637 
+Location(longitude=69.210456, latitude=41.298285, horizontalAccuracy=null, livePeriod=null, heading=null, proximityAlertRadius=null)
+ {Name:Kids COMBO
+16000.0   2=32000.0}
+ 2022-09-13T21:16:51.074730700 #
+ 
+
+Yusupov Otabek
+998914371637 
+null
+ {Name:🥩Mol Go'shti
+16000  3=48000.0, Name:🍗Tovuq Go'shti
+160  1=16000.0}
+ 2022-09-13T21:34:24.976188
+ 48000.0#
+ 
+
+Yusupov Otabek
++998914371637 
+null
+ {Pepsi 1.5 16000.0=16000.0}
+ 2022-09-13T22:51:41.598039600
+ 16000.0#
+ 
+
+Otabek null
+998910906001 
+Location(longitude=69.204513, latitude=41.296565, horizontalAccuracy=null, livePeriod=null, heading=null, proximityAlertRadius=null)
+ {Kids COMBO 16000.0=48000.0, Pepsi 1.5 16000.0=16000.0}
+ 2022-09-13T22:53:20.624227200
+ 48000.0#
+ 
+
+
+Firdavs null
+998972610036 
+Location(longitude=69.228565, latitude=41.32649, horizontalAccuracy=null, livePeriod=null, heading=null, proximityAlertRadius=null)
+ {COMBO+ 16000.0=48000.0}
+ 2022-09-14T19:23:23.740964500
+ 48000.0#
+ 
+
+Yusupov Otabek
+998914371637 
+Location(longitude=69.228582, latitude=41.326519, horizontalAccuracy=null, livePeriod=null, heading=null, proximityAlertRadius=null)
+ {🍗Tovuq Go'shti 16000.0=16000.0}
+ 2022-09-14T22:29:04.713183300
+ 16000.0#
+ 
+
+Yusupov Otabek
+998914371637 
+Location(longitude=69.207103, latitude=41.297061, horizontalAccuracy=null, livePeriod=null, heading=null, proximityAlertRadius=null)
+ {🍗Tovuq Go'shti 16000.0=32000.0}
+ 2022-09-15T15:40:18.475134100
+ 32000.0#
+ 
+
+Yusupov Otabek
+998914371637 
+Location(longitude=69.207852, latitude=41.298391, horizontalAccuracy=null, livePeriod=null, heading=null, proximityAlertRadius=null)
+ {🍗Tovuq Go'shti 16000.0=64000.0}
+ 2022-09-15T15:42:24.622651700
+ 64000.0#
+ 
+
+Yusupov Otabek
+998914371637 
+Location(longitude=69.207103, latitude=41.297061, horizontalAccuracy=null, livePeriod=null, heading=null, proximityAlertRadius=null)
+ {Gamburger 16000.0=96000.0, 🍗Tovuq Go'shti 16000.0=64000.0}
+ 2022-09-15T15:43:15.822845200
+ 96000.0#
+ 
+
+Yusupov Otabek
+998914371637 
+Location(longitude=69.207852, latitude=41.298391, horizontalAccuracy=null, livePeriod=null, heading=null, proximityAlertRadius=null)
+ {Chizburger 16000.0=16000.0}
+ 2022-09-15T15:51:23.658108
+ 16000.0#
+ 
+
+Rustam null
+998975251904 
+Location(longitude=69.221553, latitude=41.292742, horizontalAccuracy=null, livePeriod=null, heading=null, proximityAlertRadius=null)
+ {🍗Tovuq Go'shti 16000.0=80000.0, Pepsi 0.5 16000.0=96000.0}
+ 2022-09-15T23:03:45.320408800
+ 96000.0#
+ 
+
+Rustam null
+998975251904 
+Location(longitude=69.221553, latitude=41.292742, horizontalAccuracy=null, livePeriod=null, heading=null, proximityAlertRadius=null)
+ {🍗Tovuq Go'shti 16000.0=80000.0, Pepsi 0.5 16000.0=96000.0}
+ 2022-09-15T23:03:45.320408800
+ 96000.0#
+ 
+
+Yusupov Otabek
+998975251904 
+Location(longitude=69.221553, latitude=41.292742, horizontalAccuracy=null, livePeriod=null, heading=null, proximityAlertRadius=null)
+ {🍗Tovuq Go'shti 16000.0=80000.0, Pepsi 0.5 16000.0=96000.0}
+ 2022-09-15T23:03:45.320408800
+ 96000.0#
+ 
+
+hrrrrrrrrrrrrrr
++998910906001 
+elementary A1,A2
+ 
+
+dweeeeeeeeeeeeeeeeeeeeeeeeeee
++998910906001 
+elementary A1,A2
+ 
+
+kkkkkkkkkkkk 777
++998910906001 
+elementary A1,A2
+ 
+
+llllllllllllllllllllllll
++998914371637 
+advanced C1,C2
+ 
+
+jjjjjjjjj
++998914371637 
+advanced C1,C2
+ 
+
+Aa
+998910906001 
+advanced C1,C2
+ 
+
+Otabek Yusupov
+21
+Urdu talabasi
+998910906001 
+intermediate B1,B2
+ 
+
+Otabek Yusupov 21yosh
+998910906001 
+elementary A1,A2
+ 
+
+Asss
+998910906001 
+intermediate B1,B2
+ 
+
+Jjj
+998914371637 
+intermediate B1,B2
+ 
+
+Yusupov Otabek 21 yosh
++998910906001 
+intermediate B1,B2
+ 
+
+IELTS Standard
+998910906001 
+elementary A1,A2
+ 
+
+jjjjjjjjjj
++998914371637 
+intermediate B1,B2
+ 
