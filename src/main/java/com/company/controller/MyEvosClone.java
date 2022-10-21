@@ -1,10 +1,8 @@
 package com.company.controller;
 
-import com.company.Database;
 import com.company.Language;
 import com.company.model.Meal;
 import com.company.model.TelergamBotUser;
-import com.company.model.UserStatus;
 import com.company.util.InlineButtonUtil;
 import com.company.util.LanguageUtil;
 import lombok.SneakyThrows;
@@ -12,7 +10,6 @@ import org.telegram.telegrambots.bots.TelegramLongPollingBot;
 import org.telegram.telegrambots.meta.api.methods.send.SendLocation;
 import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
 import org.telegram.telegrambots.meta.api.methods.send.SendPhoto;
-import org.telegram.telegrambots.meta.api.methods.updatingmessages.EditMessageReplyMarkup;
 import org.telegram.telegrambots.meta.api.methods.updatingmessages.EditMessageText;
 import org.telegram.telegrambots.meta.api.objects.*;
 import org.telegram.telegrambots.meta.api.objects.replykeyboard.ReplyKeyboardMarkup;
@@ -30,7 +27,7 @@ public class MyEvosClone extends TelegramLongPollingBot {
     private static final String Token = "5413749330:AAGq27o59G8fK68rQMTgLo3qhHCJHcVOHls";
     private static final String UserName = "aplus_academy_bot";
     private GeneralController generalController;
-    Database database = new Database();
+
     private SavatController savatController;
     private List<TelergamBotUser> users = new LinkedList<>();
     List<Meal> mealList = new LinkedList<>();

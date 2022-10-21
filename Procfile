@@ -1,1 +1,1 @@
-worker: sh target/bin/EVOSclonebot
+worker: sh target/bin/Aplus
